@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 120 120" role="img" aria-label="深緑の背景に白い時計と黄色い星のアプリアイコン">
+<rect width="120" height="120" rx="34" fill="#577b68"/>
+<circle cx="56" cy="62" r="34" fill="none" stroke="#fff" stroke-width="5"/>
+<path d="M56 41v22l15 10" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M101 13l5 11 12 2-9 8 2 12-10-6-10 6 2-12-9-8 12-2z" fill="#f5d57b"/>
+</svg>

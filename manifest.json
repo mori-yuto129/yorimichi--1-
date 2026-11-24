@@ -1,0 +1,32 @@
+{
+  "name": "よりみち予定ノート",
+  "short_name": "予定ノート",
+  "description": "勉強もバイトも遊びも、自分のペースで管理する予定ノート",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f7f3",
+  "theme_color": "#f8f7f3",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
